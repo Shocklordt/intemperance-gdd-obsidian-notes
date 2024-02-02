@@ -1,4 +1,4 @@
 Information
 
 Authors: Arseniy Sergeenko \
-Version: 0.1 \
+Version: 0.1
