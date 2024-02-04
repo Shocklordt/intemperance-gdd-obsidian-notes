@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "9037855987202048",
+    "id": "63b61ba4e71f9cdf",
     "type": "split",
     "children": [
       {
-        "id": "182a805cb7f5b024",
+        "id": "383525e9335e36e6",
         "type": "tabs",
         "children": [
           {
-            "id": "1d62d77972ed9901",
+            "id": "301726fb5fc43a9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Game Design.md",
+                "file": "Game Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bf0e1f7a06b3e071",
+    "id": "4ae97866ceba9761",
     "type": "split",
     "children": [
       {
-        "id": "bd3fba1ce0e505ab",
+        "id": "608d3a890ba76bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "202cfacdfa3b082d",
+            "id": "974361a9642c1ae8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "908a82e503cfeed3",
+            "id": "cb25b1fac685c961",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "1317788f55d217fb",
+            "id": "05c9e1c2ab17f616",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "5a6587a086260d70",
+    "id": "74ef5c9baa8ae85f",
     "type": "split",
     "children": [
       {
-        "id": "e93da1f23ea05d87",
+        "id": "263ea8f3f66a15a5",
         "type": "tabs",
         "children": [
           {
-            "id": "c679a0769319361b",
+            "id": "878056aeb57fbbd1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main/Game Design.md",
+                "file": "Game Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "7854b58ca8271c95",
+            "id": "c77d3dd85a5200c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Game Design.md",
+                "file": "Game Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "452a22656dcf26a9",
+            "id": "9a629c0cc6c3e6a3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "e82697f6b9473bf8",
+            "id": "97f40e93f5ef05f3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Game Design.md"
+                "file": "Game Design.md"
               }
             }
           }
@@ -138,31 +138,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d62d77972ed9901",
+  "active": "974361a9642c1ae8",
   "lastOpenFiles": [
-    "Main/Game Mechanics.md",
-    "Main/Implementation Schedule.md",
-    "Main/Plot and Setting.md",
-    "Main/Updates.md",
-    "Main/User Interface.md",
-    "Contents.md",
-    "Main/Game Design.md",
-    "README.md",
-    "Untitled.canvas",
-    "Main/Game Elements.md",
-    "Main/Game Advancement.md",
-    "Untitled",
-    "Intemperance - Game Design Document.md",
-    "Content.md",
-    "New Text Document.txt",
-    "Main"
+    "Game Mechanics.md",
+    "Implementation Schedule.md",
+    "Updates.md",
+    "User Interface.md",
+    "Plot and Setting.md",
+    "Game Design.md"
   ]
 }
