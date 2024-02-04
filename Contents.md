@@ -1,2 +1,6 @@
-1. [[Overview]]
+1. [[Game Design]]
 2. [[Game Mechanics]]
+3. [[Plot and Setting]]
+4. [[User Interface]]
+5. [[Updates]]
+6. [[User Interface]]
