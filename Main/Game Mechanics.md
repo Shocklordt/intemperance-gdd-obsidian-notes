@@ -1,0 +1,1 @@
+The game loop start with the profit quota being generated and players choosing the island location, entering the island and gathering items/dealing with monsters. Players can choose to travel to another island or to return to "base". When players choose to return the cycle ends and players can sell the gathered items in exchange for gold. If the profit quota is 

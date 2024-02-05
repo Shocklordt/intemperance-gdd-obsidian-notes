@@ -30,7 +30,7 @@ Visualizes the stamina of the player character.
 4 slots filled by icons of collected items.
 
 ### Hand - slots
-Left and Right - arm slots filled by icons of items held in the hands of the player character.
+Left and Right - hand slots filled by icons of items held in the hands of the player character.
 
 ### Interaction Interface
 Whenever a character is in-range of an interactable object, interaction interface will show the key bind to interact and status upon interaction (Locked/Open).

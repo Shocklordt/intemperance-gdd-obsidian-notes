@@ -7,7 +7,7 @@ During the game development course, it is expected to reach a Minimum Viable Pro
 
 # MVP
 
-3–5 campaign maps, 1 melee and 1 ranged weapon, 1 trap and 1 boon, 2-3 enemy types, initial art and sound design
+1 campaign map with levels, 1 melee and 1 ranged weapon, 1 trap and 1 boon, 2-3 enemy types, loot, initial art and sound design
 
 # Stretch Goals
 

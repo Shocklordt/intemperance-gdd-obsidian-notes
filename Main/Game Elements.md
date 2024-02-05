@@ -10,12 +10,10 @@ Enemies will have different behaviors, resource pools and vision ranges. Some wi
 # Equipment
 ### Key
 Keys can open doors and chests.
-
 ### Torch
-A simple light source
+A simple light source.
 
 **Duration**: 5min
-
 
 # Potions
 -
@@ -29,7 +27,7 @@ Sabre is a light-weight, one-handed weapon used in melee range. Click mouse butt
 	**Range**: 100
 	**Stamina cost**: 30
 	**Base value**: 15 coins
-
+	
 ### Flintlock pistol
 Flintlock pistol is a light-weight, one-handed, ranged weapon which uses ammo as a resource. Hold mouse button to focus the shot, release to shoot.
 
@@ -39,10 +37,9 @@ Flintlock pistol is a light-weight, one-handed, ranged weapon which uses ammo as
 	**Focus time**: 1.5s
 	**Reload**: 1
 	**Reload time**: 2s
-
+	
 # Magic Items
 -
-
 # Valuables
 Valuables can be sold for profit.
 

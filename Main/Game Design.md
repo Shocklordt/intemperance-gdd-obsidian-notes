@@ -7,7 +7,6 @@ The following is a proposal for a role-playing game with rogue-lite, multiplayer
 *Intemperance* borrows limitations and conditions from "extraction" - style games and puts them into a context of a rogue-lite RPG in an attempt to reinvigorate the roguelike niche of games. Unlike in *Lethal Company,* the players will be able to equip their characters with more effective weapons and fight monsters instead of having to run away all the time. 
 
 ## Game Platform
-
 Unreal Engine 5 - compatible platforms. Windows 10 64-bit executable.
 
 ## Target Audience

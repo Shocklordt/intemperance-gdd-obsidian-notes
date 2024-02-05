@@ -4,5 +4,4 @@
 4. [[Game Mechanics]]
 5. [[User Interface]]
 6. [[Updates]]
-7. [[User Interface]]
 8. [[Implementation Schedule]]
