@@ -1,3 +1,4 @@
+*** 
 The following is a proposal for a role-playing game with rogue-lite, multiplayer and extraction elements, with an emphasis on exploration, conflict and hardship. The essence of the game can be thought as a mashup of *Diablo(1997)* and *Lethal Company(2023)*. This initial document will be expanded upon and modified when development is initiated.
 
 ## Overview
@@ -14,4 +15,5 @@ Unreal Engine 5 - compatible platforms. Windows 10 64-bit executable.
 
 ## Monetization
 To be determined...
+*** 
 

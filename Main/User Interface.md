@@ -1,3 +1,4 @@
+***
 The game should have minimal and intuitive interface for PC gamers. The interface should not be in the way of the gameplay and game art.
 # Controls
 
@@ -37,3 +38,4 @@ Whenever a character is in-range of an interactable object, interaction interfac
 
 ### Key Binds
 Each inventory or hand - slot should have a small icon of its key bind. The key bind icons should react to players actions via visual effects. Examples: slot is empty/full, hold/click/release is required.
+***

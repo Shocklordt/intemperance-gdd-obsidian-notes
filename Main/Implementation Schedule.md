@@ -1,3 +1,4 @@
+***
 Prototype deadline: 30.01.2024
 Demo deadline: 21.02.2024
 Final Demo deadline: 28.02.2024
@@ -7,8 +8,9 @@ During the game development course, it is expected to reach a Minimum Viable Pro
 
 # MVP
 
-1 campaign map with levels, 1 melee and 1 ranged weapon, 1 trap and 1 boon, 2-3 enemy types, loot, initial art and sound design
+1 campaign map with levels, 1 melee and 1 ranged weapon, 1 trap and 1 boon, 2-3 enemy types, loot, initial art and sound design, campaign game mode. Initial testing and balancing.
 
-# Stretch Goals
+# Stretch Goals for 28.02
 
 Procedural map generation, character customization, multiplayer co-op mode, 
+***
