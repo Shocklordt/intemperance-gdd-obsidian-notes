@@ -1,1 +1,7 @@
-
+    1. [[Game Design]]
+    2. [[Plot and Setting]]
+    3. [[Game Elements]]
+    4. [[Game Mechanics]]
+    5. [[User Interface]]
+    6. [[Updates]]
+    7. [[Implementation Schedule]]
