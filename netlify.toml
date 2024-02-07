@@ -4,20 +4,20 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = ""
+LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Enter the Vault</span>"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "I have nothing but intelligence about Intemperance."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "Contents"
 # (Optional) Site title on landing page
-LANDING_TITLE = ""
+LANDING_TITLE = "<span class='hvr-grow'>Hi, I am Arseniy</span>"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Shocklordt/intemperance-gdd-obsidian-notes"
 # (Optional) Site title in navbar
 SITE_TITLE = "Intemperance"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = ""
+SITE_TITLE_TAB = "Shocklord's ideas"
 # (REQUIRED) Netlify site URL
 SITE_URL = ""
 # (Optional) Site Timezone
